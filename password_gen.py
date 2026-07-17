@@ -23,7 +23,7 @@ while True:
     print("\n2.View Password")
     print("\n3.Generate password")
     print("\n4.Exit")
-    choice = input("Enter Choice: ")
+    choice = input("Enter Choice: ") 
              
 
 
